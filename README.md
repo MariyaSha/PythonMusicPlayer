@@ -16,4 +16,4 @@ you can find all the information in this video of mine:
 <a href="https://youtu.be/tRlEkCLQ-fk" target="_blank">Sound & Audio Code Jam Registration Guide</a>
 
 <h2>Credits:</h2>
-demo song is by: <a href="https://mixkit.co" target="_blank">Mixkit</a>
+demo song by: <a href="https://mixkit.co" target="_blank">Mixkit</a>
