@@ -12,5 +12,8 @@ My goal is to find the most simple implementation as well as the mostg efficient
 </p>
 
 <h2>Register to the Code Jam</h2>
-<p>you can find all the information in this video of mine:</p>
+you can find all the information in this video of mine:
 <a href="https://youtu.be/tRlEkCLQ-fk" target="_blank">Sound & Audio Code Jam Registration Guide</a>
+
+<h2>Credits:</h2>
+demo song is by: <a href="https://mixkit.co" target="_blank">Mixkit</a>
