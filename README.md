@@ -11,6 +11,20 @@ There are pros and cons to every approach and I'll be loading more files into th
 My goal is to find the most simple implementation as well as the mostg efficient one
 </p>
 
+## Run 
+
+~~~~
+cd player_pygame
+
+pip install pygame pygame_gui
+~~~~
+
+~~~~
+cd player_dearpygui_pygame
+
+pip install dearpygui
+~~~~
+
 <h2>Register to the Code Jam</h2>
 you can find all the information in this video of mine:
 <a href="https://youtu.be/tRlEkCLQ-fk" target="_blank">Sound & Audio Code Jam Registration Guide</a>
